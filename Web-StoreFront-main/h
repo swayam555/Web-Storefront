@@ -1,0 +1,204 @@
+[33mcommit ce2bb9d41ec336aa2beb297d9c040a0c4a805a1d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Vishal Yadav <vishaltr55@gmail.com>
+Date:   Mon May 20 17:18:49 2024 +0530
+
+    Error handling
+
+[33mcommit 47b33a49389fc7eaecdc806d63a91d5bd79d3995[m
+Author: Vishal Yadav <vishaltr55@gmail.com>
+Date:   Mon May 20 02:56:48 2024 +0530
+
+    Validation almost complete
+
+[33mcommit 5d8254417d955fc394dd981350502782b717680a[m
+Author: Vishal Yadav <vishaltr55@gmail.com>
+Date:   Sun May 19 18:54:48 2024 +0530
+
+    Changed CSS and reset password feature added.
+
+[33mcommit 4956b7c538ce3315a4989a43e1c8e98239a120f3[m
+Author: Vishal Yadav <vishaltr55@gmail.com>
+Date:   Sun May 19 01:23:08 2024 +0530
+
+    Some new modules for email service
+
+[33mcommit aa8dc110e6b7f15612636d441b0f4dcb9fda618a[m
+Author: Vishal Yadav <vishaltr55@gmail.com>
+Date:   Sat May 18 16:12:15 2024 +0530
+
+    Added Flash Warnings and authentication.
+
+[33mcommit 846cc714c6d03d3677aad28281a47727bd5c9977[m
+Author: Vishal Yadav <vishaltr55@gmail.com>
+Date:   Sat May 18 02:40:56 2024 +0530
+
+    installed bcrypt and working on authentication.
+
+[33mcommit 2a750e73cedf9595c8005275403fd93391285fa6[m
+Author: Vishal Yadav <vishaltr55@gmail.com>
+Date:   Fri May 17 14:43:39 2024 +0530
+
+    minor styling tweaks
+
+[33mcommit 7454dbcd40ddee68cbb3b3e47deb5c7a5465ad07[m
+Author: Vishal Yadav <vishaltr55@gmail.com>
+Date:   Fri May 17 00:55:23 2024 +0530
+
+    Session implemented.
+
+[33mcommit 33f867acf1de0ac671612ff501aa1e2eb21019c5[m
+Author: Vishal Yadav <vishaltr55@gmail.com>
+Date:   Fri May 17 00:01:39 2024 +0530
+
+    adding user info to sessions
+
+[33mcommit 55f5738bf2350dd8bbf86988eea72bc89684a772[m
+Author: Vishal Yadav <vishaltr55@gmail.com>
+Date:   Thu May 16 22:34:36 2024 +0530
+
+    added new package : Express-session
+
+[33mcommit c502a1f0fec1f9b3b0223b6672214f2efa9d973a[m
+Author: Vishal Yadav <vishaltr55@gmail.com>
+Date:   Thu May 16 00:23:53 2024 +0530
+
+    Done with Mongoose implementation, it's easier.
+
+[33mcommit a254a3db45c711106583f0f10ed6dcaad88593a6[m
+Author: Vishal Yadav <vishaltr55@gmail.com>
+Date:   Wed May 15 14:35:33 2024 +0530
+
+    Starting with Mongoose.
+
+[33mcommit 675941affa31cf130b47c7bae078ca4d02a4ccee[m
+Author: Vishal Yadav <vishaltr55@gmail.com>
+Date:   Wed May 15 00:00:19 2024 +0530
+
+    Completed MongoDb modification !!
+
+[33mcommit b775c3b5d4ae64fb961f2a40589ffb63cd2b0770[m
+Author: Vishal Yadav <vishaltr55@gmail.com>
+Date:   Tue May 14 00:48:26 2024 +0530
+
+    making changes according to MongoDB
+
+[33mcommit b8af03911dcdbe67044a0bc70534084223ca67d5[m
+Author: Vishal Yadav <vishaltr55@gmail.com>
+Date:   Mon May 13 15:01:35 2024 +0530
+
+    startes implementing db using MongoDB
+
+[33mcommit 7fdc58ff2d0245e791933399e6e959f671f8d66b[m
+Author: Vishal Yadav <vishaltr55@gmail.com>
+Date:   Sun May 12 23:16:07 2024 +0530
+
+    Done with SQL and sequelize.
+
+[33mcommit f3d1c632dc8ac8775c74323c19a1bdd910a62576[m
+Author: Vishal Yadav <vishaltr55@gmail.com>
+Date:   Sun May 12 11:18:13 2024 +0530
+
+    wroking with sequelize and updating accordingly
+
+[33mcommit a8708828b6b538a06c5457cef1dbc43e6f879e62[m
+Author: Vishal Yadav <vishaltr55@gmail.com>
+Date:   Sat May 11 13:15:58 2024 +0530
+
+    Adding more information
+
+[33mcommit 61572d11b6f307e6e48cb4b1f49b6de1b9da3b56[m
+Author: Vishal Yadav <vishaltr55@gmail.com>
+Date:   Sat May 11 13:05:56 2024 +0530
+
+    syncing the packages file, not necessary but ok.
+
+[33mcommit e7b116c4fdf0dcf8072e36d7ab238be5856544d7[m
+Author: Vishal Yadav <vishaltr55@gmail.com>
+Date:   Sat May 11 13:03:34 2024 +0530
+
+    satrting SQL database (using mysql)
+
+[33mcommit e65b9f1d8852011d18ad21a00527d6305978f8a2[m
+Author: Vishal Yadav <vishaltr55@gmail.com>
+Date:   Fri May 10 10:01:40 2024 +0530
+
+    added cart-view and delete feature
+
+[33mcommit 818647591d88c48c57627db0c8193347ef3a26ba[m
+Author: Vishal Yadav <vishaltr55@gmail.com>
+Date:   Thu May 9 11:57:34 2024 +0530
+
+    addToCart added with functions
+
+[33mcommit a709fb58c60d53e4445845e111b3f37afdaef357[m
+Author: Vishal Yadav <vishaltr55@gmail.com>
+Date:   Wed May 8 10:54:32 2024 +0530
+
+    dividing codes based on MVC principle
+
+[33mcommit f0cdf0ae6a7223c8993141402d0e657d35cf59eb[m
+Author: Vishal Yadav <vishaltr55@gmail.com>
+Date:   Tue May 7 14:14:50 2024 +0530
+
+    Selecting EJS and Implementing MVC
+
+[33mcommit bb5987e4b36f31d24df8015e25bba45bc867d749[m
+Author: Vishal Yadav <vishaltr55@gmail.com>
+Date:   Tue May 7 08:29:21 2024 +0530
+
+    here, we learnt about templating engines and express features
+
+[33mcommit 6fb686dffd52754e41c00e1e65fccf35b96c1229[m
+Author: Vishal Yadav <vishaltr55@gmail.com>
+Date:   Mon May 6 10:07:39 2024 +0530
+
+    html and js folder files
+
+[33mcommit c048de031224a2dd5f37d962a95a511f7083e957[m
+Merge: 5ac6617 b96b307
+Author: Vishal Yadav <vishaltr55@gmail.com>
+Date:   Mon May 6 07:27:25 2024 +0530
+
+    Merge branch 'main' of https://github.com/venzene/E-commerce
+
+[33mcommit 5ac6617bc9f1cf993349b755da26de19605907a5[m
+Author: Vishal Yadav <vishaltr55@gmail.com>
+Date:   Mon May 6 07:16:51 2024 +0530
+
+    html and css aplied and using path and express modules
+
+[33mcommit b96b307dbefccc567dda1a5b35647f8ccda05cbf[m
+Author: Vishal Yadav <vishaltr55@gmail.com>
+Date:   Sun May 5 13:00:56 2024 +0530
+
+    Delete package-lock.json
+
+[33mcommit ef802335a159feaa9b845d8687484142505271b0[m
+Author: Vishal Yadav <vishaltr55@gmail.com>
+Date:   Sun May 5 12:58:46 2024 +0530
+
+    few more updates and json file and nodemon config.
+
+[33mcommit 19d6ecded0e3123a92cace7e050409f3a4e26eeb[m
+Author: Vishal Yadav <vishaltr55@gmail.com>
+Date:   Sat May 4 18:24:45 2024 +0530
+
+    seperate file for routing
+
+[33mcommit b824ab3de27693a0b49f0fd7e8e92f984558126e[m
+Author: Vishal Yadav <vishaltr55@gmail.com>
+Date:   Thu May 2 11:53:35 2024 +0530
+
+    First File addition
+
+[33mcommit 6e4d1d300c30de170efb557639d5a5cca00cefb0[m
+Author: Vishal Yadav <vishaltr55@gmail.com>
+Date:   Thu May 2 11:09:07 2024 +0530
+
+    Update README.md
+
+[33mcommit 1e044eff32737efe12e927e66044fd708e8ecb47[m
+Author: Vishal Yadav <vishaltr55@gmail.com>
+Date:   Thu May 2 11:07:59 2024 +0530
+
+    Initial commit

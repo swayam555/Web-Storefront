@@ -1,0 +1,46 @@
+.orders {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.orders__item h1 {
+  margin: 0;
+  font-size: 1.2rem;
+  color: #333;
+}
+
+.orders__item {
+  background-color: #f0f0f0; /* Light gray background color */
+  border: 1px solid #ddd; /* Light gray border */
+  border-radius: 8px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.orders__item:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow on hover */
+}
+
+.orders__products {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.orders__products-item {
+  background-color: #fff; /* White background color */
+  border: 1px solid #34495e; /* Border color */
+  color: #34495e;
+  padding: 0.75rem;
+  margin: 0.5rem 0;
+  border-radius: 4px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.orders__products-item:hover {
+  background-color: #34495e; /* Darker background color on hover */
+  color: #fff; /* White text color on hover */
+}
